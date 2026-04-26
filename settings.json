@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TitanSquad.aternos.me:53974",
+    "port": 53974,
     "version": "",
     "try-creative": false
   },
